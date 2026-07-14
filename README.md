@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohith 👋</h1>
 
 <p align="center">
-  <b>Product &amp; Data Analyst</b> I turn messy behavioral, transactional, and operational data into decisions.
+  <b>Business &amp; Product Analyst</b> I turn messy behavioral, transactional, and operational data into decisions.
 </p>
 
 <p align="center">

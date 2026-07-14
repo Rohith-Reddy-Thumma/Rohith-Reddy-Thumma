@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Rohith 👋</h1>
 
 <p align="center">
-  <b>Product &amp; Data Analyst</b> — I turn messy behavioral, transactional, and operational data into decisions.
+  <b>Product &amp; Data Analyst</b> I turn messy behavioral, transactional, and operational data into decisions.
 </p>
 
 <p align="center">
@@ -14,9 +14,9 @@
 
 ### 👋 About me
 
-- 🎓 **M.S. in Business Analytics** (STEM, 4.0 GPA) — Northern Arizona University
+- 🎓 **M.S. in Business Analytics** (STEM, 4.0 GPA) - Northern Arizona University
 - 🔎 I work across **funnel &amp; cohort analysis, RFM segmentation, churn modeling, A/B testing, and KPI reporting**
-- 🧭 I like owning the full loop — from a stakeholder's question → to an instrumented metric → to a defensible recommendation
+- 🧭 I like owning the full loop - from a stakeholder's question → to an instrumented metric → to a defensible recommendation
 - 🤝 Comfortable translating between non-technical stakeholders, product managers, and the data
 - 🚀 Currently open to **Product Analyst** and similar roles
 - 📍 Flagstaff, AZ
